@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "1000-depan.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
